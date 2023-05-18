@@ -6,15 +6,22 @@
 
 <strong>FILES</strong>
 <ul>
-<li>Leaflet-Part-1 (<em>Directory</em>)
+<li>Images (<em>Directory</em>)
   <ul>
-  <li>Images (<em>Directory</em>) - 1-Logo.png (<em>File</em>), 2-BasicMap.png (<em>File</em>), 3-Data.png (<em>File</em>), 4-JSON.png (<em>File</em>), 5-Advanced.png (<em>File</em>), 6-Time_Keeps_On_Ticking.gif (<em>File</em>), Cluster.png (<em>File</em>), Heat.png (<em>File</em>)
-  <li>static (<em>Directory</em>)
-    <ul>
-    <li>css (<em>Directory</em>) - style.css (<em>File</em>)
-    <li>js (<em>Directory</em>) - logic.js (<em>File</em>)
-    </ul>
-  </ul>
+  <li>1-Logo.png (<em>File</em>)
+  <li>2-BasicMap.png (<em>File</em>)
+  <li>3-Data.png (<em>File</em>)
+  <li>4-JSON.png (<em>File</em>)
+  <li>5-Advanced.png (<em>File</em>)
+  <li>6-Time_Keeps_On_Ticking.gif (<em>File</em>)
+  <li>Cluster.png (<em>File</em>)
+  <li>Heat.png (<em>File</em>)
+ </ul>
+<li>static (<em>Directory</em>)
+   <ul>
+   <li>css (<em>Directory</em>) - style.css (<em>File</em>)
+   <li>js (<em>Directory</em>) - logic.js (<em>File</em>)
+   </ul>
 <li>index.html (<em>File</em>)
 </ul>
 
